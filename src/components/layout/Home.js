@@ -132,7 +132,7 @@ const MainMenu=()=>{
                         <MenuIcon />
                     </IconButton>
                     <Typography variant="h6" noWrap>
-                        Track And Trace
+                       E-Tech PVT LTD
                   </Typography>
                 </Toolbar>
             </AppBar>
